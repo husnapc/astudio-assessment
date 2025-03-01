@@ -1,0 +1,15 @@
+
+@import "tailwindcss";
+@theme {
+  --color-black:#322625;
+  --color-gray:#ebebeb;
+  --color-blue:#c0e3e5;
+  --color-yellow:#fdc936;
+  --font-display: 'NeutraText-Light','';
+}
+@font-face {
+    font-family: 'NeutraText-Light';  
+    font-style:normal; 
+     font-weight: 200 700; 
+      font-display: swap; 
+       src: url("/assets/fonts/NeutraText-Light.otf") format("otf");}
